@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:A1C4FD,100:C2E9FB&height=240&section=header&text=Kyounghun%20Kim&fontSize=64&fontColor=1F2937&fontAlignY=38&desc=Ph.D.%20Student%20%C2%B7%20Kwangwoon%20University&descSize=20&descAlignY=58&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=500&color=2F80ED&center=true&vCenter=true&multiline=true&repeat=false&width=720&height=110&lines=Fault+Detection+%C2%B7+Anomaly+Detection+%C2%B7+Health+Monitoring;Deep+Reinforcement+Learning+%C2%B7+UAV+Path+Planning;Positioning+%C2%B7+GPS-Denied+Navigation)](https://github.com/Kyounghun384929)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=500&color=2F80ED&center=true&vCenter=true&multiline=true&width=720&height=110&lines=Fault+Detection+%C2%B7+Anomaly+Detection+%C2%B7+Health+Monitoring;Deep+Reinforcement+Learning+%C2%B7+UAV+Path+Planning;Positioning+%C2%B7+GPS-Denied+Navigation)](https://github.com/Kyounghun384929)
 
 </div>
 
