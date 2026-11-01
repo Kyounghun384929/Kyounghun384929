@@ -10,7 +10,7 @@
 
 ## About Me
 
-I am a Ph.D. student in the Department of Electronic Convergence Engineering at **Kwangwoon University**, Seoul, South Korea. My research focuses on learning-based decision-making, reliable sensing, and positioning for autonomous systems. Alongside academic research, I build AI-powered applications and research prototypes.
+I am a Ph.D. student at **Kwangwoon University**, Seoul, South Korea. My research focuses on learning-based decision-making, reliable sensing, and positioning for autonomous systems. Alongside academic research, I build AI-powered applications and research prototypes.
 
 ### Research Interests
 
