@@ -1,67 +1,69 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:A1C4FD,100:C2E9FB&height=240&section=header&text=Kyounghun%20Kim&fontSize=64&fontColor=1F2937&fontAlignY=38&desc=Ph.D.%20Student%20%C2%B7%20Kwangwoon%20University&descSize=20&descAlignY=58&animation=fadeIn)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=175&section=header&text=Kyounghun%20Kim&fontSize=49&fontColor=FFFFFF&fontAlignY=38&desc=Ph.D.%20Student%20%7C%20Kwangwoon%20University&descSize=18&descAlignY=62" alt="Kyounghun Kim — Ph.D. Student at Kwangwoon University" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=500&color=2F80ED&center=true&vCenter=true&multiline=true&width=720&height=110&lines=Fault+Detection+%C2%B7+Anomaly+Detection+%C2%B7+Health+Monitoring;Deep+Reinforcement+Learning+%C2%B7+UAV+Path+Planning;Positioning+with+Kalman+Filtering+%C2%B7+GPS-Denied+Navigation)](https://github.com/Kyounghun384929)
+**Autonomous Systems · Intelligent Sensing · Applied AI**
+
+[Email](mailto:sdrudgnsdl@kw.ac.kr) · [GitHub](https://github.com/Kyounghun384929)
 
 </div>
 
-## 📝 Publications (First Author)
+## About Me
 
-- **AI-Driven Style Transfer Framework Based on 3D Gaussian Splatting for Immersive Experiences**<br>
-  <ins>K. Kim</ins>, B. Hwang, M. Lee, J. Kim, J. Seon, S. Kim, Y. Sun, S. Cho, J. Kim<br>
-  *Applied Sciences*, 2026 &nbsp;[![DOI](https://img.shields.io/badge/DOI-10.3390%2Fapp16041889-2F80ED?style=flat-square)](https://doi.org/10.3390/app16041889)
+I am a Ph.D. student in the Department of Electronic Convergence Engineering at **Kwangwoon University**, Seoul, South Korea. My research focuses on learning-based decision-making, reliable sensing, and positioning for autonomous systems. Alongside academic research, I build AI-powered applications and research prototypes.
 
-- **Robust UAV Path Planning Using RSS in GPS-Denied and Dense Environments Based on Deep Reinforcement Learning**<br>
-  <ins>K. Kim</ins>, J. Seon, J. Kim, J. Kim, Y. Sun, S. Lee, S. Kim, B. Hwang, M. Lee, J. Kim<br>
-  *Electronics*, 2025 &nbsp;[![DOI](https://img.shields.io/badge/DOI-10.3390%2Felectronics14193844-2F80ED?style=flat-square)](https://doi.org/10.3390/electronics14193844) [![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/Kyounghun384929/Robust-UAV-Path-Planning-Using-RSS-in-GPS-Denied-and-Dense-Environments-Based-on-Deep-Reinforcement-)
+### Research Interests
 
-- **Enhanced 3D Outdoor Positioning Method Based on Adaptive Kalman Filter and Kernel Density Estimation for 6G Wireless System**<br>
-  <ins>K. Kim</ins>, S. Lee, B. Hwang, J. Kim, J. Seon, S. Kim, Y. Sun, J. Kim<br>
-  *Electronics*, 2024 &nbsp;[![DOI](https://img.shields.io/badge/DOI-10.3390%2Felectronics13234623-2F80ED?style=flat-square)](https://doi.org/10.3390/electronics13234623)
+- **Fault Diagnosis & Condition Monitoring:** anomaly detection and reliability-aware analysis of sensor signals.
+- **Autonomous UAV Navigation:** deep reinforcement learning for path planning and collision avoidance, including GPS-denied environments.
+- **Wireless & GNSS Positioning:** RSS-based distance estimation, adaptive Kalman filtering, and robust positioning.
+- **Applied LLM Systems:** on-device language models, retrieval-augmented generation, and practical AI software.
 
-## 📊 Stats
+## Featured Projects
+
+| Project | Overview |
+| --- | --- |
+| **[RSS-aware UAV Path Planning](https://github.com/Kyounghun384929/Robust-UAV-Path-Planning-Using-RSS-in-GPS-Denied-and-Dense-Environments-Based-on-Deep-Reinforcement-)** | Research implementation of UAV path planning and collision avoidance using RSS, EKF, and deep reinforcement learning. **[Paper](https://doi.org/10.3390/electronics14193844)** |
+| **[Deep Translation](https://github.com/Kyounghun384929/deep-translation)** | Windows desktop translator powered by locally running LLMs, with GGUF model support and optional OpenAI-compatible servers. **[Latest release](https://github.com/Kyounghun384929/deep-translation/releases/latest)** |
+| **[Cell Decomposition-based UAV Path Planning](https://github.com/Kyounghun384929/UAV-Path-Planning-based-on-Deep-Reinforcement-Learning-using-Cell-Decomposition-Algorithm)** | 3D UAV path planning with an A2C agent and cell decomposition, including a baseline comparison and pretrained models. **[Paper](https://doi.org/10.7236/JIIBC.2024.24.3.15)** |
+| **[DRL Path Planning Experiments](https://github.com/Kyounghun384929/DRL-based-Path-Planning-Algorithm-Prac)** | UAV navigation experiments with DQN and PPO; additional algorithms and multi-agent extensions are under development or archived. |
+| **[Academic Writing RAG](https://github.com/Kyounghun384929/RAG-for-LLMs-final-projects-KKH)** | Academic-writing assistant prototype exploring RAG, LangGraph, reviewer-response drafting, and reference formatting. |
+
+## Selected Publications
+
+*First-author journal publications, most recent first.*
+
+### International Journals
+
+1. **AI-Driven Style Transfer Framework Based on 3D Gaussian Splatting for Immersive Experiences**  
+   <u>K. Kim</u>, B. Hwang, M. Lee, J. Kim, J. Seon, S. Kim, Y. Sun, S. Cho, J. Kim  
+   *Applied Sciences*, **16**(4), 1889 (2026). **[DOI](https://doi.org/10.3390/app16041889)**
+
+2. **Robust UAV Path Planning Using RSS in GPS-Denied and Dense Environments Based on Deep Reinforcement Learning**  
+   <u>K. Kim</u>, J. Seon, J. Kim, J. Kim, Y. Sun, S. Lee, S. Kim, B. Hwang, M. Lee, J. Kim  
+   *Electronics*, **14**(19), 3844 (2025). **[DOI](https://doi.org/10.3390/electronics14193844)** · **[Code](https://github.com/Kyounghun384929/Robust-UAV-Path-Planning-Using-RSS-in-GPS-Denied-and-Dense-Environments-Based-on-Deep-Reinforcement-)**
+
+3. **Enhanced 3D Outdoor Positioning Method Based on Adaptive Kalman Filter and Kernel Density Estimation for 6G Wireless System**  
+   <u>K. Kim</u>, S. Lee, B. Hwang, J. Kim, J. Seon, S. Kim, Y. Sun, J. Kim  
+   *Electronics*, **13**(23), 4623 (2024). **[DOI](https://doi.org/10.3390/electronics13234623)**
+
+### Korean Journal
+
+4. **UAV Path Planning based on Deep Reinforcement Learning using Cell Decomposition Algorithm**  
+   <u>K.-H. Kim</u>, B. Hwang, J. Seon, S.-H. Kim, J.-Y. Kim  
+   *The Journal of the Institute of Internet, Broadcasting and Communication*, **24**(3), 15–20 (2024). **[DOI](https://doi.org/10.7236/JIIBC.2024.24.3.15)** · **[Code](https://github.com/Kyounghun384929/UAV-Path-Planning-based-on-Deep-Reinforcement-Learning-using-Cell-Decomposition-Algorithm)**
+
+## Technical Skills
+
+- **Programming:** Python, C/C++, C#, MATLAB, Bash
+- **Machine Learning & Simulation:** PyTorch, deep reinforcement learning, Kalman filtering
+- **LLM Applications:** RAG, LangChain, LangGraph, llama.cpp, .NET
+- **Development:** Git, VS Code, CMake, Windows, Ubuntu/WSL
+
+## GitHub Activity
 
 <div align="center">
 
-![Kyounghun384929's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyounghun384929&show_icons=true&theme=default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyounghun384929&layout=pie&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-
-![잔디](https://ghchart.rshah.org/2F80ED/Kyounghun384929)
+![Kyounghun Kim's GitHub statistics](https://github-readme-stats.vercel.app/api?username=Kyounghun384929&show_icons=true&hide_border=true&theme=transparent)
 
 </div>
-
-## 💪 Skills
-
-### Languages 📜
-
-![Bash](https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Markdown](https://img.shields.io/badge/MARKDOWN-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
-### Tools 📐
-
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![CMake](https://img.shields.io/badge/CMAKE-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Obsidian](https://img.shields.io/badge/OBSIDIAN-483699?style=for-the-badge&logo=obsidian&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logoColor=white)
-
-### Operating Systems 💿
-
-![Windows](https://img.shields.io/badge/WINDOWS-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Ubuntu WSL](https://img.shields.io/badge/UBUNTU%20WSL-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-**Probably... this is my ultimate skill set.** ⚡
-
-![ChatGPT](https://img.shields.io/badge/CHATGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/CLAUDE-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![llama.cpp](https://img.shields.io/badge/LLAMA.CPP-000000?style=for-the-badge&logoColor=white)
-![LM Studio](https://img.shields.io/badge/LM%20STUDIO-5B5BD6?style=for-the-badge&logoColor=white)
-![Ollama](https://img.shields.io/badge/OLLAMA-000000?style=for-the-badge&logo=ollama&logoColor=white)
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:A1C4FD,100:C2E9FB&height=120&section=footer)
